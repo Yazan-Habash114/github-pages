@@ -1,5 +1,5 @@
 ---
-title: (: Welcome to my blog :)
+title: ☺ Welcome to my blog ☺
 ---
 
-# Header `h1` here :)
+# Header `h1` here ☺
